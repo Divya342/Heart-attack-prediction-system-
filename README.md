@@ -9,7 +9,8 @@ Heart attack is a critical medical emergency that requires prompt diagnosis and 
 # Block diagram
 ![Screenshot_20230711-101420~2](https://github.com/Divya342/Heart-attack-prediction-system-/assets/114659084/8d037f1b-6952-4543-805a-b7e312b3b5fb)
 # circuit/Schematic diagram
-![Screenshot_20230711-101420~2](https://github.com/Divya342/Heart-attack-prediction-system-/assets/114659084/ff7b6ce1-bb4f-4a0f-abcd-bc6f954fcf36)
+![IMG_202307192_104259147](https://github.com/Divya342/Heart-attack-prediction-system-/assets/114659084/0817baa2-ae66-4039-9bf5-e63f535648ce)
+
 
 
 
