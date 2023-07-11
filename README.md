@@ -8,4 +8,8 @@ The real-time monitoring of heart failure patients, especially people with cardi
 Heart attack is a critical medical emergency that requires prompt diagnosis and treatment. Early detection of heart attack symptoms can help improve patient outcomes and reduce mortality rates. However, identifying symptoms of a heart attack can be challenging for individuals, and delayed diagnosis can result in severe consequences. Thus, there is a need for an accurate and reliable heart attack detection system that can quickly and efficiently identify symptoms and alert medical professionals
 # Block diagram
 ![Screenshot_20230711-101420~2](https://github.com/Divya342/Heart-attack-prediction-system-/assets/114659084/8d037f1b-6952-4543-805a-b7e312b3b5fb)
+# circuit/Schematic diagram
+![Screenshot_20230711-101420~2](https://github.com/Divya342/Heart-attack-prediction-system-/assets/114659084/ff7b6ce1-bb4f-4a0f-abcd-bc6f954fcf36)
+
+
 
