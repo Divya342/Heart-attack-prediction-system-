@@ -13,7 +13,7 @@ DE10 Nano FPGA, which is capable of monitoring various vital signs such as heart
 glucose levels, cholesterol levels, and ST-T wave abnormality. The system can then detect 
 any abnormal patterns and send an alert through Twilio (API) to the user’s phone, allowing 
 them to seek immediate medical attention.
-This technology has the potential to save lives by providing early detection and 
+    This technology has the potential to save lives by providing early detection and 
 intervention in cases of heart attack, making it an important advancement in the field of 
 healthcare by intimating the level of the disease (i.e., initial stage, intermediate...) In this 
 way, we can reduce the mortality rate of a heart attack patients.
