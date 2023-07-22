@@ -285,7 +285,17 @@ from google.colab import files
 files.download('sc.pkl')
 
 pip install twilio
-
-
-
+# Conclusion
+In conclusion, a heart attack detection system can be a valuable tool in identifying potential heart attacks and providing timely medical assistance to those in need. By using various data sources such as ECG signals, heart rate, glucose levels, cholesterol levels, and other vital signs, such a system can help detect and diagnose heart attacks early, potentially reducing the risk of serious complications or even death.
+# Referenes
+## REFERENCE 1
+FPGA-based system for heart rate monitoring
+Link:https://www.researcgate.net/publication/332079912_FPGA-basedSystem_for_Heart_Rate_Monitoring
+## REFERENCE 2
+Non invasive cholesterol meter using Near Infrared Sensor 
+Link:https://ieeeexplore.ieee.org/document/7449581
+## REFERENCE 3
+A real time non-invasive cholesterol monitoring system 
+Link:https://www.researchgate.net/publication/347525970_A_real_time_non_invasive_chol
+esterol_monitoring_system
 
