@@ -16,8 +16,7 @@ The real-time monitoring of heart failure patients, especially people with cardi
 
 # circuit/Schematic diagram
 ![IMG_202307192_104259147](https://github.com/Divya342/Heart-attack-prediction-system-/assets/114659084/0817baa2-ae66-4039-9bf5-e63f535648ce)
-# Machine learning code
-# -*- coding: utf-8 -*-
+
 
 
 # Conclusion
